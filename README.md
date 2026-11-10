@@ -76,7 +76,3 @@ This is an educational portfolio project and requires additional security measur
 ## Author 
 
 Made by **Shaurya Parmar**
-
-Diploma of Information Technology (Web Development) – TAFE Queensland
-
-GitHub: https://github.com/ShauryaParmar2102
